@@ -22,3 +22,6 @@ This blog is a small window into my journey — a place where I collect notes, f
 When I’m not measuring leaf traits or analyzing data, you’ll probably find me drawing plants, cooking, or planningg  my next hike in the mountains.
 
 **Thank you for stopping by — I hope you find something here that inspires you, too.**
+
+![Llanganuco](./images/llanganuco.jpg)
+
