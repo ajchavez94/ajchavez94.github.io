@@ -10,4 +10,4 @@ Some information about you!
 
 ### Contact me
 
-[ajchavez94@gmail.com](mailto:ajchavez94@gmail.com)
+[andrea.chavezpacheco@ugent.be](mailto:andrea.chavezpacheco@ugent.be)
