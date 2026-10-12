@@ -283,6 +283,67 @@ footer {
   text-align: center;
 }
 
+
+// --- Galería del portafolio ---
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 24px;
+  margin: 20px 0 40px;
+}
+
+.obra {
+  margin: 0;
+
+  a {
+    display: block;
+    overflow: hidden;
+    border-radius: 6px;
+    border-bottom: none;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+
+  a:hover img {
+    transform: scale(1.04);
+    opacity: 0.9;
+  }
+
+  figcaption {
+    margin-top: 10px;
+    font-size: 15px;
+    line-height: 1.4;
+
+    .tecnica {
+      display: block;
+      color: #7a7a7a;
+      font-style: italic;
+      font-size: 14px;
+    }
+
+    .descripcion {
+      display: block;
+      margin-top: 4px;
+      font-size: 14px;
+    }
+  }
+}
+
+// --- Página académica: un poco más de aire entre secciones ---
+.page h2 {
+  margin-top: 40px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
