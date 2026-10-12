@@ -1,22 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre mí
+permalink: /
 ---
 
-Hi! I’m Andrea Chávez. I’m a passionate learner and explorer of the world within different landscapes, forests, and people. I grew up surrounded by Ecuador's diverse ecosystems, which shaped my deep connection to biodiversity and my curiosity for environmental issues. Over the years, I’ve been involved in various projects, ranging from chasing monkeys in the Amazon to long-term forest monitoring of mountain regions, botanical expeditions, and regional science networks. These experiences constantly remind me of the value of collaboration and the richness that comes from blending different perspectives, disciplines, and cultures.
+¡Hola! Soy Andrea Chávez. Me apasiona aprender y explorar el mundo a través de sus distintos paisajes, bosques y personas. Crecí rodeada de los diversos ecosistemas del Ecuador, que formaron mi profunda conexión con la biodiversidad y mi curiosidad por los temas ambientales. A lo largo de los años he participado en proyectos muy variados: desde seguir monos en la Amazonía hasta el monitoreo a largo plazo de bosques de montaña, expediciones botánicas y redes científicas regionales. Estas experiencias me recuerdan constantemente el valor de la colaboración y la riqueza que surge al combinar distintas perspectivas, disciplinas y culturas.
 
-Currently, I'm pursuing a PhD in Bioscience engineering, working between the QForestLab at Ghent University in Belgium and the Escuela Politécnica Nacional (EPN) in Ecuador as part of the ReCoAndes project, supported by the Belgian cooperation program VLIR-UOS. My current research focuses on how tropical montane forests respond to climate change, combining field monitoring, herbarium analysis, stable isotope analysis, and community collaboration.
+Actualmente curso un doctorado en Ingeniería en Biociencias, trabajando entre el QForestLab de la Universidad de Gante (Bélgica) y la Escuela Politécnica Nacional (EPN) en Ecuador, como parte del proyecto ReCoAndes, apoyado por el programa de cooperación belga VLIR-UOS. Mi investigación actual se centra en cómo responden los bosques montanos tropicales al cambio climático, combinando monitoreo en campo, análisis de herbario, análisis de isótopos estables y colaboración con las comunidades.
 
-Beyond science, I am also passionate about visual storytelling and illustration. I enjoy translating ideas into accessible drawings that spark curiosity and conversation.
-I’ve contributed to projects such as illustrating books, the Calendar of Ecuadorian Women in Science calendar, educational games, and outreach materials that bridge gaps between scientific knowledge and local communities.
+Más allá de la ciencia, me apasionan la narración visual y la ilustración. Disfruto traducir ideas en dibujos accesibles que despierten curiosidad y conversación. He contribuido a proyectos como la ilustración de libros, el Calendario de Mujeres Ecuatorianas en Ciencias, juegos educativos y materiales de divulgación que acercan el conocimiento científico a las comunidades locales.
 
-I've created this website as a place where I collect notes, field stories, reflections, sketches, and moments that shape my life as a researcher and as a person. I write in both English and Spanish, depending on the audience and the mood. So, feel free to explore, comment, and join me as I navigate the Andes, attend international conferences, sketch, or pause to reflect on what it means for an emergent scientist in a rapidly changing world.
+Creé este sitio como un lugar donde reunir mi trabajo académico y creativo. Te invito a explorar mi trayectoria en la sección [Académico]({{ site.baseurl }}/academico/) y mis ilustraciones y proyectos de divulgación en el [Portafolio]({{ site.baseurl }}/portafolio/). Puedes leer el sitio en otros idiomas con el selector de la parte superior.
 
-Thank you for stopping by — I hope you find something here that inspires you, too.
+Gracias por pasar por aquí. Espero que encuentres algo que también te inspire.
 
-### More Information
-
-### Contact me
+### Contacto
 
 [andrea.chavezpacheco@ugent.be](mailto:andrea.chavezpacheco@ugent.be)
