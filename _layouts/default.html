@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
@@ -11,6 +11,16 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Estilos del selector de idioma -->
+    <style>
+      .traductor { margin-top: 10px; text-align: right; font-size: 13px; }
+      .traductor .goog-te-gadget-simple { border: 1px solid #ddd; border-radius: 4px; padding: 3px 6px; background: #fff; }
+      .traductor .goog-te-gadget-icon { display: none; }
+      /* Oculta la barra que Google añade arriba de la página */
+      body > .skiptranslate, iframe.goog-te-banner-frame { display: none !important; }
+      body { top: 0 !important; }
+    </style>
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -27,11 +37,12 @@
           </div>
 
           <nav>
-  <a href="{{ site.baseurl }}/">Blog</a>
-  <a href="{{ site.baseurl }}/portafolio/">Portafolio</a>
-  <a href="{{ site.baseurl }}/academico/">Académico</a>
-  <a href="{{ site.baseurl }}/about">About</a>
-</nav>
+            <a href="{{ site.baseurl }}/">Sobre mí</a>
+            <a href="{{ site.baseurl }}/academico/">Académico</a>
+            <a href="{{ site.baseurl }}/portafolio/">Portafolio</a>
+          </nav>
+
+          <div id="google_translate_element" class="traductor"></div>
         </header>
       </div>
     </div>
@@ -49,5 +60,18 @@
     </div>
 
     {% include analytics.html %}
+
+    <!-- Traductor automático (el sitio está en español; el visitante elige otro idioma) -->
+    <script>
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+          pageLanguage: 'es',
+          includedLanguages: 'en,fr,nl,de,pt',
+          layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+          autoDisplay: false
+        }, 'google_translate_element');
+      }
+    </script>
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
   </body>
 </html>
