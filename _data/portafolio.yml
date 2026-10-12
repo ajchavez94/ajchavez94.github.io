@@ -1,0 +1,80 @@
+# Obras del portafolio de Andrea Chávez Pacheco
+# - imagen: puede ser una URL completa (https://...) o una ruta dentro del repo (images/portafolio/archivo.jpg)
+# - enlace: (opcional) a dónde lleva el clic en la imagen; si no hay, abre la imagen en grande
+# - categoria: las obras se agrupan automáticamente por este nombre
+# Para agregar una obra nueva, copia un bloque completo y cambia los datos.
+
+# ---------- Divulgación científica ----------
+
+- titulo: Calendario de Mujeres Ecuatorianas en Ciencias 2022
+  anio: 2022
+  categoria: Ilustración para divulgación científica
+  tecnica: Ilustración digital · Primera edición
+  descripcion: Retratos ilustrados de científicas ecuatorianas, en colaboración con la REMCI y Microbios.
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2022/02/portada-2_mesa-de-trabajo-1.jpg?w=683
+  enlace: https://microbiosdigital.wordpress.com/wp-content/uploads/2022/12/calendario-de-mujeres-ecuatorianas-en-ciencias-2022-2023.pdf
+
+- titulo: Calendario de Mujeres Ecuatorianas en Ciencias 2023
+  anio: 2023
+  categoria: Ilustración para divulgación científica
+  tecnica: Ilustración digital
+  descripcion: Segunda edición del calendario.
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2022/12/images-calendario-01-2.png?w=1024
+  enlace: https://microbiosdigital.wordpress.com/wp-content/uploads/2022/12/calendariocientificas2023-1.pdf
+
+- titulo: Calendario de Mujeres Ecuatorianas en Ciencias 2024
+  anio: 2024
+  categoria: Ilustración para divulgación científica
+  tecnica: Ilustración digital
+  descripcion: Tercera edición del calendario.
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2023/12/calendariomockup.jpg?w=1024
+  enlace: https://microbiosdigital.wordpress.com/wp-content/uploads/2023/11/calendario2024v3-1.pdf
+
+- titulo: Calendario de Mujeres Ecuatorianas en Ciencias 2025
+  anio: 2025
+  categoria: Ilustración para divulgación científica
+  tecnica: Ilustración digital
+  descripcion: Cuarta edición del calendario.
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2024/12/calendario2025-01.png?w=1024
+  enlace: https://microbiosdigital.wordpress.com/wp-content/uploads/2024/12/calendario20252dav.pdf
+
+- titulo: Calendario de Mujeres Ecuatorianas en Ciencias 2026
+  anio: 2026
+  categoria: Ilustración para divulgación científica
+  tecnica: Coordinación y dirección creativa
+  descripcion: Quinta edición, "Estamos aquí". Ilustraciones de Sofía Acosta y Jennifer Suárez bajo mi dirección creativa.
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2025/12/calendario-cientificas-2026-imprimir.jpg
+  enlace: https://microbiosdigital.wordpress.com/calendario-de-mujeres-ecuatorianas-en-ciencias-2026/
+
+# ---------- Libretas Microbios ----------
+
+- titulo: Química silvestre
+  categoria: Diseños para libretas Microbios
+  tecnica: Diseño de portada · Nuevo
+  descripcion: Diseño inspirado en la naturaleza.
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2023/03/9-2366072709-e1678880330582.jpg?w=1024
+  enlace: https://microbiosdigital.wordpress.com/tienda/
+
+- titulo: El código de la vida
+  categoria: Diseños para libretas Microbios
+  tecnica: Diseño de portada
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2023/03/codigosvida-2.jpg?w=1024
+  enlace: https://microbiosdigital.wordpress.com/libretas-el-codigo-de-la-vida/
+
+- titulo: HeLa
+  categoria: Diseños para libretas Microbios
+  tecnica: Diseño de portada
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2023/03/hela.jpg?w=1024
+  enlace: https://microbiosdigital.wordpress.com/tienda/
+
+- titulo: La vida microscópica
+  categoria: Diseños para libretas Microbios
+  tecnica: Diseño de portada
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2023/03/parasitos22.jpg?w=1024
+  enlace: https://microbiosdigital.wordpress.com/libretas-la-vida-microscopica/
+
+- titulo: Las Chlorellas
+  categoria: Diseños para libretas Microbios
+  tecnica: Diseño de portada
+  imagen: https://microbiosdigital.wordpress.com/wp-content/uploads/2023/03/clorellas.jpg?w=1024
+  enlace: https://microbiosdigital.wordpress.com/tienda/
