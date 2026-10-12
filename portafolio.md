@@ -37,4 +37,4 @@ Soy ilustradora y científica. Uso la ilustración como puente entre la investig
 - **2022** — Ilustradora del primer *Calendario de Mujeres Ecuatorianas en Ciencias*, lanzado el 11 de febrero por el Día Internacional de la Mujer y la Niña en la Ciencia. Cobertura en [El Comercio](https://www.elcomercio.com/sociedad/ecuador-primer-calendario-mujeres-ciencia/) y Teleamazonas.
 - **2021 – presente** — Diseño de portadas para las libretas de ciencia de Microbios. [Ver tienda](https://microbiosdigital.wordpress.com/tienda/)
 
-¿Te interesa un encargo o colaboración? Escríbeme por [Instagram](https://www.instagram.com/ajchavez94) o a [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com).
+¿Te interesa un encargo o colaboración? Escríbeme por [Instagram](https://www.instagram.com/ajchavez94) o a [andrea.chavezpacheco@ugent.be](mailto:andrea.chavezpacheco@ugent.be).

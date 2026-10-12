@@ -4,7 +4,7 @@ title: Académico
 permalink: /academico/
 ---
 
-Soy estudiante doctoral en el **Departamento de Ambiente de la Universidad de Gante (Ghent University, Bélgica)**. Estudio los **bosques montanos tropicales** y sus adaptaciones al cambio climático. Mi formación combina la biotecnología, la ecología y el desarrollo sostenible, y me interesa especialmente la interfaz entre ciencia y arte para comunicar la investigación.
+Soy estudiante doctoral en Ingeniería en Biociencias en el **QForestLab de la Universidad de Gante (Bélgica)** y la **Escuela Politécnica Nacional (Ecuador)**, dentro del proyecto ReCoAndes (VLIR-UOS). Estudio los **bosques montanos tropicales** y sus adaptaciones al cambio climático. Mi formación combina la biotecnología, la ecología y el desarrollo sostenible, y me interesa especialmente la interfaz entre ciencia y arte para comunicar la investigación.
 
 [ResearchGate](https://www.researchgate.net/profile/Andrea-Chavez-Pacheco) · [LinkedIn](https://www.linkedin.com/in/bio-andrea-chavez/)
 <!-- Si tienes CV en PDF, súbelo a files/cv.pdf y descomenta la línea siguiente: -->
@@ -12,7 +12,8 @@ Soy estudiante doctoral en el **Departamento de Ambiente de la Universidad de Ga
 
 ## Formación
 
-- **Doctorado (PhD) en Ciencias Biológicas / Ambientales** — Ghent University, Departamento de Ambiente, Bélgica · *en curso*
+- **Doctorado (PhD) en Ingeniería en Biociencias** — QForestLab, Universidad de Gante (Bélgica) y Escuela Politécnica Nacional (Ecuador) · *en curso*
+  Proyecto ReCoAndes, programa de cooperación belga VLIR-UOS.
   Investigación sobre ecología de bosques montanos tropicales y cambio climático: eficiencia en el uso del agua (WUE) de especies arbóreas bajo fertilización con N y P a lo largo de un gradiente altitudinal en el sur de Ecuador, en el experimento de manipulación de nutrientes NUMEX.
 - **Master of Science en Desarrollo Sostenible y Ecología** — [Universidad], Bélgica
 - **Ingeniería en Biotecnología** — [Universidad], Ecuador
@@ -39,4 +40,4 @@ Ecología de bosques tropicales · Bosques montanos · Cambio climático · Ecof
 
 ## Contacto
 
-[tu-correo@ugent.be](mailto:tu-correo@ugent.be)
+[andrea.chavezpacheco@ugent.be](mailto:andrea.chavezpacheco@ugent.be)
