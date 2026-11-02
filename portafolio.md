@@ -4,7 +4,7 @@ title: Portafolio creativo
 permalink: /portafolio/
 ---
 
-Soy ilustradora y científica. Uso la ilustración como puente entre la investigación y las personas: retratos de científicas, diseños inspirados en la vida microscópica y la naturaleza, y proyectos de divulgación junto a [Microbios](https://microbiosdigital.wordpress.com/).
+Soy ilustradora y científica. Uso la ilustración como puente entre la investigación y las personas: retratos de científicas, diseños inspirados en la vida microscópica y la naturaleza, y proyectos de divulgación principalmente gracias a la colaboración con [Microbios](https://microbiosdigital.wordpress.com/).
 
 {% assign categorias = site.data.portafolio | map: "categoria" | uniq %}
 {% for cat in categorias %}
@@ -32,9 +32,9 @@ Soy ilustradora y científica. Uso la ilustración como puente entre la investig
 
 - **2026** — Coordinación y dirección creativa de la quinta edición del *Calendario de Mujeres Ecuatorianas en Ciencias* ("Estamos aquí"), con el apoyo de la Cooperación Alemana en Ecuador y GENIA. [Ver calendario](https://microbiosdigital.wordpress.com/calendario-de-mujeres-ecuatorianas-en-ciencias-2026/)
 - **2026** — Organizadora del *1er Concurso Arte, Ciencia y Mujeres: "La ciencia también se imagina, se dibuja"*, con el IRD en Ecuador (julio). [Ver anuncio](https://www.facebook.com/IRDenAmericaLatina/posts/ecuador-concurso-arte-ciencia-y-mujeres-la-ciencia-tambi%C3%A9n-se-imagina-se-dibuja-/1375981504572585/)
-- **Juego de memoria** — Asistente y diseñadora de un juego de memoria de divulgación científica. [Ver video](https://www.youtube.com/watch?v=rqhlW01OdSQ&t=37s)
-- **2022 – 2025** — Ilustración y línea editorial del *Calendario de Mujeres Ecuatorianas en Ciencias*, iniciativa de la Red Ecuatoriana de Mujeres Científicas (REMCI) y Microbios.
-- **2022** — Ilustradora del primer *Calendario de Mujeres Ecuatorianas en Ciencias*, lanzado el 11 de febrero por el Día Internacional de la Mujer y la Niña en la Ciencia. Cobertura en [El Comercio](https://www.elcomercio.com/sociedad/ecuador-primer-calendario-mujeres-ciencia/) y Teleamazonas.
+- **Juego de memoria 2025** — Asistente y diseñadora de un juego de memoria de divulgación científica. [Ver video](https://www.youtube.com/watch?v=rqhlW01OdSQ&t=37s)
+- **Ilustración del libro Las cartas a mi abuelo 2024** — Colaboración junto a la escritora Stephanie Anchaluisa, en un recorrido sobre las historias en su natal Ecuador y su recorrido migratorio en Bélgica.
+- **Ilustración y línea editorial del Calendario Mujeres Ecuatorianas en Ciencias– 2022 al 2025** — Ilustradora y promotora de iniciativa de la Red Ecuatoriana de Mujeres Científicas (REMCI) y Microbios. Cobertura por El Comercio (https://www.elcomercio.com/sociedad/ecuador-primer-calendario-mujeres-ciencia/) y Teleamazonas.
 - **2021 – presente** — Diseño de portadas para las libretas de ciencia de Microbios. [Ver tienda](https://microbiosdigital.wordpress.com/tienda/)
 
 ¿Te interesa un encargo o colaboración? Escríbeme por [Instagram](https://www.instagram.com/ajchavez94) o a [andrea.chavezpacheco@ugent.be](mailto:andrea.chavezpacheco@ugent.be).
