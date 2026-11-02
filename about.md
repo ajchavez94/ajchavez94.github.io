@@ -16,8 +16,9 @@ He creado este sitio para reunir mi trabajo académico y creativo. Te invito a e
 
 ### Contacto
 <div style="text-align: center; margin-bottom: 25px;">
-  <img src="{{ site.baseurl }}/assets/images/IMG_20240111_013023.jpg"
+  <img src="{{ site.baseurl }}assets/images/IMG_20240111_013023.jpg"
        alt="Andrea Chávez"
        style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%;">
 </div>
+
 [andrea.chavezpacheco@ugent.be](mailto:andrea.chavezpacheco@ugent.be)
