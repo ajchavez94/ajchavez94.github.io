@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Sobre mí
+title: About me
 permalink: /
 ---
 
-¡Hola! Soy Andrea Chávez. Me apasiona aprender y explorar el mundo a través de sus distintos paisajes, bosques y personas. Crecí rodeada de los diversos ecosistemas del Ecuador, que formaron mi profunda conexión con la biodiversidad y mi curiosidad por los temas ambientales. A lo largo de los años he participado en proyectos muy variados: desde seguir monos en la Amazonía hasta el monitoreo a largo plazo de bosques de montaña, expediciones botánicas y redes científicas regionales. Estas experiencias me recuerdan constantemente el valor de la colaboración y la riqueza que surge al combinar distintas perspectivas, disciplinas y culturas.
+Me apasiona aprender y explorar el mundo a través de sus distintos paisajes, bosques y personas. Esto me ha llevado a participar en proyectos muy variados: desde estudiar zoonosis en capuchinos de la Amazonía y hacer voluntariado en las Galápagos, monitorear bosques de montaña, realizar expediciones botánicas, participar en redes científicas regionales, entre otros.
 
-Actualmente curso un doctorado en Ingeniería en Biociencias, trabajando entre el QForestLab de la Universidad de Gante (Bélgica) y la Escuela Politécnica Nacional (EPN) en Ecuador, como parte del proyecto ReCoAndes, apoyado por el programa de cooperación belga VLIR-UOS. Mi investigación actual se centra en cómo responden los bosques montanos tropicales al cambio climático, combinando monitoreo en campo, análisis de herbario, análisis de isótopos estables y colaboración con las comunidades.
+Cambiar de áreas puede parecer un poco fuera de lo común, pero yo lo veo como una muestra de mi adaptabilidad, resiliencia y capacidad para aprender. Además, siempre recolecto nuevas historias.
 
-Más allá de la ciencia, me apasionan la narración visual y la ilustración. Disfruto traducir ideas en dibujos accesibles que despierten curiosidad y conversación. He contribuido a proyectos como la ilustración de libros, el Calendario de Mujeres Ecuatorianas en Ciencias, juegos educativos y materiales de divulgación que acercan el conocimiento científico a las comunidades locales.
+Actualmente estoy desarrollando mi investigación doctoral en el marco del proyecto ReCoAndes, financiado por VLIR-UOS. La naturaleza de mi doctorado implica dividir mi tiempo entre el [Q-ForestLab de la Universidad de Gante](https://qforestlab.ugent.be/) (Bélgica) y la [Escuela Politécnica Nacional (EPN)](https://www.epn.edu.ec/) en Ecuador. Mi investigación actual se centra en cómo responden los bosques montanos tropicales al cambio climático, combinando monitoreo en campo, análisis de herbario, análisis de isótopos estables y colaboración con las comunidades. Suelo mencionar frecuentemente que, aunque en Bélgica existe la infraestructura para la investigación, es mi territorio el que tiene los bosques y que mejor que yo para estudiarlos. Humildemente claro.
 
-Creé este sitio como un lugar donde reunir mi trabajo académico y creativo. Te invito a explorar mi trayectoria en la sección [Académico]({{ site.baseurl }}/academico/) y mis ilustraciones y proyectos de divulgación en el [Portafolio]({{ site.baseurl }}/portafolio/). Puedes leer el sitio en otros idiomas con el selector de la parte superior.
+Más allá de la ciencia, me apasionan la narración visual y la ilustración. Aunque no me considero particularmente buena, disfruto traducir ideas en ilustraciones que despierten curiosidad y conversación. He contribuido a proyectos como la ilustración de libros, el [Calendario de Mujeres Ecuatorianas en Ciencias](https://microbiosdigital.com/wp-content/uploads/2022/12/calendario-de-mujeres-ecuatorianas-en-ciencias-2022-2023.pdf), juegos educativos y materiales de divulgación que acercan el conocimiento científico a la sociedad en general.
 
-Gracias por pasar por aquí. Espero que encuentres algo que también te inspire.
+He creado este sitio para reunir mi trabajo académico y creativo. Te invito a explorar mi trayectoria en la sección [Académico]({{ site.baseurl }}/academico/) y mis proyectos de divulgación en el [Portafolio]({{ site.baseurl }}/portafolio/). Sigo trabajando en incorporar un traductor, pero por el momento la información está disponible únicamente en español, mi lengua nativa.
 
 ### Contacto
 
