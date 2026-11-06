@@ -24,7 +24,9 @@ Ecología de bosques tropicales · Bosques montanos · Cambio climático · Ecof
 
 ## Publicaciones
 
-1. Araujo, P., Carrillo-Bilbao, G. A., Ramírez, W., … Chávez-Pacheco, A. J., … & Martin-Solano, S. (2022). First record of tool use by a wild population of *Cebus albifrons* (Humboldt, 1812) (Primates, Cebidae) in Puerto Misahuallí, Napo, Ecuador. *Boletín Técnico*. [Ver publicación](https://www.researchgate.net/publication/359145613_First_record_of_tool_use_by_a_wild_population_of_Cebus_albifrons_Humboldt_1812_Primates_Cebidae_in_Puerto_Misahualli_Napo_Ecuador)
+1. Buczyński, A., & Chávez Pacheco, A. (2025). Quantifying cycling infrastructure investment needs across Europe using OpenStreetMap data. In Transport Transitions: Advancing Sustainable and Inclusive Mobility. Springer.[https://doi.org/10.1007/978-3-031-85578-8_21](https://doi.org/10.1007/978-3-031-85578-8_21)
+2. Araujo, P., Carrillo-Bilbao, G. A., Ramírez, W., … Chávez-Pacheco, A. J., … & Martin-Solano, S. (2022). First record of tool use by a wild population of *Cebus albifrons* (Humboldt, 1812) (Primates, Cebidae) in Puerto Misahuallí, Napo, Ecuador. *Boletín Técnico*. [Ver publicación](https://www.researchgate.net/publication/359145613_First_record_of_tool_use_by_a_wild_population_of_Cebus_albifrons_Humboldt_1812_Primates_Cebidae_in_Puerto_Misahualli_Napo_Ecuador)
+   
 
 ## Pósters y congresos
 
@@ -36,7 +38,7 @@ Ecología de bosques tropicales · Bosques montanos · Cambio climático · Ecof
 - **Microbios** — Colaboradora del proyecto de divulgación científica [Microbios](https://microbiosdigital.wordpress.com/), a cargo de la línea editorial y dirección creativa del *Calendario de Mujeres Ecuatorianas en Ciencias* (2022 – 2026), en alianza con la Red Ecuatoriana de Mujeres Científicas (REMCI).
 - **2026** — Organizadora del *1er Concurso Arte, Ciencia y Mujeres: "La ciencia también se imagina, se dibuja"* (julio de 2026), con el IRD en Ecuador. [Ver anuncio](https://www.facebook.com/IRDenAmericaLatina/posts/ecuador-concurso-arte-ciencia-y-mujeres-la-ciencia-tambi%C3%A9n-se-imagina-se-dibuja-/1375981504572585/)
 - **Juego de memoria** — Asistente y diseñadora del juego de memoria de divulgación científica. [Ver video](https://www.youtube.com/watch?v=rqhlW01OdSQ&t=37s)
-- Ver más en mi [portafolio creativo]({{ site.baseurl }}/portafolio/).
+- Ver más en [portafolio creativo]({{ site.baseurl }}/portafolio/).
 
 ## Contacto
 
