@@ -24,7 +24,8 @@ Serie de tres ilustraciones originales de primates - Aotus vociferans, Aullador 
   <img src="/assets/images/Pensamos con las tripas.png" width="80%">
 </div>
 
-### Diseño y colaboración para proyectos de vinculación con la sociedad con componente científico
+### Diseño y colaboración para proyectos de vinculación con la sociedad 
+Trabajo colaborativo con investigadores de diferentes áreas para el diseño de material didáctico para soporte en actividades de sensibilización sobre especies en peligro de extinción. A mi cargo estuvo la supervisión del proyecto y tuve la oportunidad de diseñar la baraja para el juego de memoria así como la difusión del mismo. 
 <div align="center">
   <iframe
     width="700"
