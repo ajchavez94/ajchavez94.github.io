@@ -4,9 +4,9 @@ title: About me
 permalink: /
 ---
 <div style="text-align: center; margin-bottom: 25px;">
-  <img src="assets/images/IMG_20240111_013023.jpg"
+  <img src="assets/images/WhatsApp Image 2019-08-09 at 19.22.36.jpeg"
        alt="Andrea Chávez"
-       style="width: 220px; height: 400px; object-fit: cover; border-radius: 50%;">
+       style="width: 520px; height: 220px; object-fit: cover; border-radius: 50%;">
 </div>
      
 Me apasiona aprender y explorar el mundo a través de sus distintos paisajes, bosques y personas. Esto me ha llevado a participar en proyectos muy variados: desde estudiar zoonosis en capuchinos de la Amazonía y hacer voluntariado en las Galápagos, monitorear bosques de montaña, realizar expediciones botánicas, participar en redes científicas regionales, entre otros.
