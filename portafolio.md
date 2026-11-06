@@ -36,5 +36,6 @@ Soy ilustradora y científica. Uso la ilustración como puente entre la investig
 - **Ilustración del libro Las cartas a mi abuelo 2024** — Colaboración junto a la escritora Stephanie Anchaluisa, en un recorrido sobre las historias en su natal Ecuador y su recorrido migratorio en Bélgica.
 - **Ilustración y línea editorial del Calendario Mujeres Ecuatorianas en Ciencias– 2022 al 2025** — Ilustradora y promotora de iniciativa de la Red Ecuatoriana de Mujeres Científicas (REMCI) y Microbios. Cobertura por El Comercio (https://www.elcomercio.com/sociedad/ecuador-primer-calendario-mujeres-ciencia/) y Teleamazonas.
 - **2021 – presente** — Diseño de portadas para las libretas de ciencia de Microbios. [Ver tienda](https://microbiosdigital.wordpress.com/tienda/)
+- **2020 Comunicación científica y diseño gráfico** — Desarrollo de piezas gráficas e infografías de alto impacto visual para *La Mikroesfera Científica*, ejemplos: cómo la microbiota afecta tu cerebro, parásitos que ejercen control mental, orientadas a la comunicación accesible y atractiva de contenidos científicos en plataformas digitales. [Ver publicaciones](https://www.facebook.com/LaMikroesferaCientifica/photos).
 
 ¿Te interesa un encargo o colaboración? Escríbeme por [Instagram](https://www.instagram.com/ajchavez94) o a [andrea.chavezpacheco@ugent.be](mailto:andrea.chavezpacheco@ugent.be).
