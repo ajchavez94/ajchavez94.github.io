@@ -10,9 +10,9 @@ Soy ilustradora y científica. Uso la ilustración como puente entre la investig
 
 Serie de tres ilustraciones originales de primates - Aotus vociferans, Aullador rojo, Ateles hybridus-, realizadas con técnica de pastel. Exploración artística de la biodiversidad a través del dibujo y la representación de la fauna.
 <div align="center">
-  <img src="images/Mirada Aotus vociferans.jpg" width="30%">
-  <img src="images/Mirada Aullador rojo.jpg" width="30%">
-  <img src="images/Mirada Azul_Ateles hybridus.jpg" width="30%">
+  <img src="images/Mirada Aotus vociferans.png" width="30%">
+  <img src="images/Mirada Aullador rojo.png" width="30%">
+  <img src="images/Mirada Azul_Ateles hybridus.png" width="30%">
 </div>
 
 <p align="center">
