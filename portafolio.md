@@ -6,6 +6,19 @@ permalink: /portafolio/
 
 Soy ilustradora y científica. Uso la ilustración como puente entre la investigación y las personas: retratos de científicas, diseños inspirados en la vida microscópica y la naturaleza, y proyectos de divulgación principalmente gracias a la colaboración con [Microbios](https://microbiosdigital.wordpress.com/).
 
+### Ilustración artística — Primates en pastel
+
+Serie de tres ilustraciones originales de primates - Aotus vociferans, Aullador rojo, Ateles hybridus-, realizadas con técnica de pastel. Exploración artística de la biodiversidad a través del dibujo y la representación de la fauna.
+<div align="center">
+  <img src="images/Mirada Aotus vociferans.jpg" width="30%">
+  <img src="images/Mirada Aullador rojo.jpg" width="30%">
+  <img src="images/Mirada Azul_Ateles hybridus.jpg" width="30%">
+</div>
+
+<p align="center">
+  <em>Primates en pastel. Serie de tres ilustraciones originales realizadas por Andrea Chávez.</em>
+</p>
+
 {% assign categorias = site.data.portafolio | map: "categoria" | uniq %}
 {% for cat in categorias %}
 ## {{ cat }}
