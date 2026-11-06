@@ -12,7 +12,7 @@ Serie de tres ilustraciones originales de primates - Aotus vociferans, Aullador 
 <div align="center">
   <img src="images/Mirada Aotus vociferans.png" width="30%">
   <img src="images/Mirada Aullador rojo.png" width="30%">
-  <img src="images/Mirada Azul_Ateles hybridus.png" width="30%">
+  <img src="images/Mirada Azul_Ateles hybridys.png" width="30%">
 </div>
 
 <p align="center">
