@@ -3,7 +3,10 @@ layout: page
 title: About me
 permalink: /
 ---
-
+<img src="{{ '/assets/images/IMG_20240111_013023.jpg' | relative_url }}"
+     alt="Andrea Chávez"
+     style="width: 300px; height: 220px; object-fit: cover; border-radius: 50%;">
+     
 Me apasiona aprender y explorar el mundo a través de sus distintos paisajes, bosques y personas. Esto me ha llevado a participar en proyectos muy variados: desde estudiar zoonosis en capuchinos de la Amazonía y hacer voluntariado en las Galápagos, monitorear bosques de montaña, realizar expediciones botánicas, participar en redes científicas regionales, entre otros.
 
 Cambiar de áreas puede parecer un poco fuera de lo común, pero yo lo veo como una muestra de mi adaptabilidad, resiliencia y capacidad para aprender. Además, siempre recolecto nuevas historias.
@@ -15,10 +18,6 @@ Más allá de la ciencia, me apasionan la narración visual y la ilustración. A
 He creado este sitio para reunir mi trabajo académico y creativo. Te invito a explorar mi trayectoria en la sección [Académico]({{ site.baseurl }}/academico/) y mis proyectos de divulgación en el [Portafolio]({{ site.baseurl }}/portafolio/). Sigo trabajando en incorporar un traductor, pero por el momento la información está disponible únicamente en español, mi lengua nativa.
 
 ### Contacto
-<div style="text-align: center; margin-bottom: 25px;">
-  <img src="/assets/images/IMG_20240111_013023.jpg""
-       alt="Andrea Chávez"
-       style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%;">
-</div>
+
 
 [andrea.chavezpacheco@ugent.be](mailto:andrea.chavezpacheco@ugent.be)
