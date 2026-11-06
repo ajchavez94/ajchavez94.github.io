@@ -24,6 +24,18 @@ Serie de tres ilustraciones originales de primates - Aotus vociferans, Aullador 
   <img src="/assets/images/Pensamos con las tripas.png" width="80%">
 </div>
 
+### Diseño y colaboración para proyectos de vinculación con la sociedad con componente científico
+<div align="center">
+  <iframe
+    width="700"
+    height="394"
+    src="https://www.youtube.com/embed/rqhlW01OdSQ?start=39"
+    title="Juego de memoria – Proyecto de vinculación EPN"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
 {% assign categorias = site.data.portafolio | map: "categoria" | uniq %}
 {% for cat in categorias %}
 ## {{ cat }}
@@ -46,7 +58,7 @@ Serie de tres ilustraciones originales de primates - Aotus vociferans, Aullador 
 </div>
 {% endfor %}
 
-## Actividades y trayectoria como ilustradora
+## Resumen de trayectoria como ilustradora y/o actividades creativas
 
 - **2026** — Coordinación y dirección creativa de la quinta edición del *Calendario de Mujeres Ecuatorianas en Ciencias* ("Estamos aquí"), con el apoyo de la Cooperación Alemana en Ecuador y GENIA. [Ver calendario](https://microbiosdigital.wordpress.com/calendario-de-mujeres-ecuatorianas-en-ciencias-2026/)
 - **2026** — Organizadora del *1er Concurso Arte, Ciencia y Mujeres: "La ciencia también se imagina, se dibuja"*, con el IRD en Ecuador (julio). [Ver anuncio](https://www.facebook.com/IRDenAmericaLatina/posts/ecuador-concurso-arte-ciencia-y-mujeres-la-ciencia-tambi%C3%A9n-se-imagina-se-dibuja-/1375981504572585/)
