@@ -19,6 +19,13 @@ Serie de tres ilustraciones originales de primates - Aotus vociferans, Aullador 
   <em>Primates en pastel. Serie de tres ilustraciones originales realizadas por Andrea Chávez.</em>
 </p>
 
+### Ilustración para comunicación científica
+<div align="center">
+  <img src="images/Pensamos con las tripas.png" width="30%">
+</div>
+
+### Ilustración para comunicación científica
+
 {% assign categorias = site.data.portafolio | map: "categoria" | uniq %}
 {% for cat in categorias %}
 ## {{ cat }}
