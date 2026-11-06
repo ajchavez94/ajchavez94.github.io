@@ -21,7 +21,7 @@ Serie de tres ilustraciones originales de primates - Aotus vociferans, Aullador 
 
 ### Ilustración para comunicación científica
 <div align="center">
-  <img src="images/Pensamos con las tripas.png" width="80%">
+  <img src="/assets/images/Pensamos con las tripas.png" width="80%">
 </div>
 
 {% assign categorias = site.data.portafolio | map: "categoria" | uniq %}
